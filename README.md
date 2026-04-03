@@ -1,2 +1,3 @@
 # my3sz
 -typoo
+;
